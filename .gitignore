@@ -1,0 +1,7 @@
+# ignore all bytecode cache created by python
+__pycache__/ 
+Utilities/__pycache__/constants.cpython-38.pyc
+*.py[cod]
+.vscode/
+
+venv/
